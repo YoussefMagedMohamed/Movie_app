@@ -1,0 +1,7 @@
+.genres span{
+    background-color: #24baef;
+}
+.vote li{
+    list-style-type: none;
+    padding-bottom: 40px;
+}
