@@ -9,8 +9,8 @@ React Project :
 </ul>
 
 ScreenShots:
-<img src="https://user-images.githubusercontent.com/125100238/235533668-4f97a0fd-cd90-47a0-be6e-293b54f307c2.png">
-<img src="https://user-images.githubusercontent.com/125100238/235533681-b2cf52f1-6df7-4168-afb4-f6bc3b13a48a.png">
-<img src="https://user-images.githubusercontent.com/125100238/235533698-553080db-8d96-474e-9f7b-5284694452ac.png">
-<img src="https://user-images.githubusercontent.com/125100238/235533702-976b4870-9894-47de-9d99-0cda551f9b79.png">
-<img src="https://user-images.githubusercontent.com/125100238/235533714-9e9120ef-9edd-45cb-a345-acad497677a3.png">
+<img src="https://user-images.githubusercontent.com/125100238/235534722-1491bbd3-a588-4ad1-a017-1a867624e436.png">
+<img src="https://user-images.githubusercontent.com/125100238/235534736-3f731077-8511-439b-ac71-ac33dd3fa991.png">
+<img src="https://user-images.githubusercontent.com/125100238/235534746-392b2a4e-c2f8-4db0-8a65-b38f437f74ce.png">
+<img src="https://user-images.githubusercontent.com/125100238/235534759-b005211f-b99b-4845-b77d-bf64a5356d67.png">
+<img src="https://user-images.githubusercontent.com/125100238/235534772-772551f2-02be-41dc-9874-8caba4e83759.png">
