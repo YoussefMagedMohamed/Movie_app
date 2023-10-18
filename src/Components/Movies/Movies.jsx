@@ -9,9 +9,7 @@ export default function Movies() {
   async function getData() {
       let movies = await getTrending('movie')
       setMovies(movies)
-  }
-   
-  
+  }  
 
   useEffect(() => {
     getData()  

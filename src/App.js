@@ -4,7 +4,6 @@ import RootLayout from './Layouts/RootLayout'
 import Navbar from './Components/Navbar/Navbar'
 import Home from './Components/Home/Home'
 import Movies from './Components/Movies/Movies'
-import People from './Components/People/People'
 import NotFound from './Components/NotFound/NotFound'
 import Tv from './Components/Tv/Tv'
 import About from './Components/About/About'
@@ -19,7 +18,6 @@ export default function App() {
       {path:'home' , element:<Home/>},
       {path:'about' , element:<About/>},
       {path:'movies' , element:<Movies/>},
-      {path:'People' , element:<People/>},
       {path:'tv' , element:<Tv/>},
       {path:'details/:media/:id' , element:<ItemDetails/>},
       {path:'*' , element:<NotFound/>},
